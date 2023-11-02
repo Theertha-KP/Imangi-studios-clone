@@ -6,6 +6,9 @@
     position: fixed;
     top: 0;
 }  
+body{
+    overflow-x: hidden;
+}
 .logo{
     height: 61.44px;
     width: 112px;
