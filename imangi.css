@@ -8,6 +8,7 @@
 }  
 body{
     overflow-x: hidden;
+    margin: 0;
 }
 .logo{
     height: 61.44px;
